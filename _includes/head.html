@@ -20,6 +20,6 @@
   <link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl }}/img/favicon/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/img/favicon/favicon-16x16.png">
 
-  <meta property="og:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}http://www.datateaser.com/img/logo.jpg{% endif %}" />
-  <meta name="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{% if page.og_image %}{{ site.url }}{{ page.og_image }}{% else %}http://www.datateaser.com/img/logo.jpg{% endif %}" />
+  <meta name="og:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 </head>
