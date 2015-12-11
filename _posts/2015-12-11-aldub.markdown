@@ -101,6 +101,8 @@ Analytics Driven Show Business Part 1
 
 *Data obtained from various news sources: GMA, ABS-CBN, Inquirer, Manila Bulletin, Pep, Philstar, and Rappler.*
 
+Image grabbed from [Eat Bulaga! Twitter page](https://twitter.com/EatBulaga/status/647747751627780097).
+
 ---
 
 [DataTeaser](http://www.datateaser.com/) is a software research and development company based in the Philippines. We specialized in natural language processing, machine learning, and data science.

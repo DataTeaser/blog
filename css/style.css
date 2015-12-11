@@ -58,3 +58,14 @@ article h3 {
   height: auto;
   display: block;
 }
+
+@media screen and (max-width: 800px) {
+    .post-content {
+        margin-top: 10px;
+        border-left: 1px solid #ccc;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: justify;
+        font-size: 16px;
+    }
+}
