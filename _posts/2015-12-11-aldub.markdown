@@ -5,6 +5,7 @@ date:   2015-12-11
 categories: aldub
 description: In our time today, there's a new way to get into show business. It is by going viral. The rise of the internet and social media here in the Philippines actually contributes a lot in this scenario. In fact, over 40% of Filipinos are active in social media. Thus, by posting something amazing, it is possible that it will be shared countless times by a lot of people and became a viral hit.
 title_image: /img/aldub/hero-aldub2.jpg
+og_image: /img/aldub/og-aldub.jpg
 ---
 Actors and actresses have different stories to tell when you ask them how they started. There are some that got discovered by a talent manager. There are some that won a talent contest. And there are some the even before they were born, show business already runs in their blood.
 
@@ -39,7 +40,7 @@ We only have the data from this year (2015) but the graph below shows how the *"
 {% assign image_url = "/img/aldub/3_alden.png" | prepend: site.baseurl %}
 {% include image.html url=image_url description="Alden: Number of news per month" %}
 
-Being one half of the AlDub, Alden's also follows the similar trend. He's news mentions boosted when AlDub started and peaks on October because of Eat Bulaga!'s "Sa Tamang Panahon".
+Being one half of the AlDub, Alden also follows the similar trend. He's news mentions boosted when AlDub started and peaks on October because of Eat Bulaga!'s "Sa Tamang Panahon".
 
 ### Effect to other cast
 
@@ -61,7 +62,7 @@ But what about Facebook? Do the articles mentioning them became viral in Faceboo
 {% assign image_url = "/img/aldub/5_virality.png" | prepend: site.baseurl %}
 {% include image.html url=image_url description="Facebook virality of AlDub per month" %}
 
-Facebook virality is the combination of shares, comments, and likes in Facebook of the news mentioning them.
+Facebook virality is the total of shares, comments, and likes in Facebook of the news mentioning them.
 
 While AlDub got the most number of news mentions on October, interestingly, they are most viral on November. Additionally, December is not yet done but it's on pace to be their most viral month.
 
