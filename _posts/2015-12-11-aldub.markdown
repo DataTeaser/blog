@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "AlDub: Analysis, Effect, and Magnitude"
+date:   2015-12-11
+categories: aldub
+description: In our time today, there's a new way to get into show business. It is by going viral. The rise of the internet and social media here in the Philippines actually contributes a lot in this scenario. In fact, over 40% of Filipinos are active in social media. Thus, by posting something amazing, it is possible that it will be shared countless times by a lot of people and became a viral hit.
+title_image: /img/aldub/hero-aldub2.jpg
+---
+Actors and actresses have different stories to tell when you ask them how they started. There are some that got discovered by a talent manager. There are some that won a talent contest. And there are some the even before they were born, show business already runs in their blood.
+
+In our time today, there's a new way to get into show business. It is by going viral. The rise of the internet and social media here in the Philippines actually contributes a lot in this scenario. In fact, [over 40% of Filipinos are active in social media](http://www.huffingtonpost.com/jonha-revesencio/philippines-a-digital-lif_1_b_7199924.html). Thus, by posting something amazing, it is possible that it will be shared countless times by a lot of people and became a viral hit.
+
+An example of this is **Maine Mendoza**. She went viral by posting dubsmash videos that gathers [1 million views overnight](http://manila.coconuts.co/2015/04/27/kris-aquino-dubsmash-video-got-over-1-million-views-24-hours). After a few weeks of going viral, she was casted as Yaya Dub in the noontime show Eat Bulaga! She was then paired to **Alden Richards** and they became know as "AlDub".
+
+### The start of AlDub
+
+After Maine Mendoza and Alden Richards were paired in Eat Bulaga!, the amount of news about them rapidly increases.
+
+{% assign image_url = "/img/aldub/2_daily.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Aldub: Daily news mentions" %}
+
+The graph above is about **how many news per day where AlDub was mentioned**. As we can see, their first spike of news is when Maine Mendoza actually fainted on live television. After that, the number of news about them increases. And most of the time, there will be a spike in news during Saturdays when Eat Bulaga! have a special story about them. The news where AlDub was mentioned peaks on October 24 when Eat Bulaga! held a concert called *"Sa Tamang Panahon"*. They also reached [41 million tweets that day](https://twitter.com/twittersg/status/658625862137331713).
+
+Currently, they are now averaging **4.6 news per day**.
+
+To add more information, below is their number of news mentions combined monthly.
+
+{% assign image_url = "/img/aldub/1_monthly.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Aldub: Monthly news mentions" %}
+
+It is worth noting that we are still in the first half of December. The news mentions of AlDub for December is still expected to increase a lot. Their upcoming movie in the Metro Manila Film Festival this Christmas will surely contribute to this.
+
+### Effect to Alden Richards
+
+We discussed earlier that Maine Mendoza is new in show business. On the other hand, her partner, Alden Richards is already part of it since 2010.
+
+We only have the data from this year (2015) but the graph below shows how the *"AlDub fever"* affected Alden's career in show business.
+
+{% assign image_url = "/img/aldub/3_alden.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Alden: Number of news per month" %}
+
+Being one half of the AlDub, Alden's also follows the similar trend. He's news mentions boosted when AlDub started and peaks on October because of Eat Bulaga!'s "Sa Tamang Panahon".
+
+### Effect to other cast
+
+Other than Maine and Alden, there are other cast members that contributes to AlDub's popularity. Wally Bayola, Jose Manalo, and Paolo Ballesteros act as Yaya Dub's grandmothers. Like Alden, they are also in the show business prior to AlDub.
+
+{% assign image_url = "/img/aldub/4_jowapao.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="JoWaPao: Number of news per month" %}
+
+As seen above, they also follows almost the same trend as AlDub where in their news mentions increases when it started.
+
+Another thing to note is that among the three of them, Wally Bayola is affected positively the most by AlDub due to his main role as Yaya Dub's grandmother.
+
+### Facebook Virality
+
+When watching Eat Bulaga!, the hosts sometimes remind the viewers how many tweets they got that day. We already knew that they got [41 million tweets](https://twitter.com/twittersg/status/658625862137331713) during "Sa Tamang Panahon". It is also worth noting that it is a global Twitter record.
+
+But what about Facebook? Do the articles mentioning them became viral in Facebook? Let's see below.
+
+{% assign image_url = "/img/aldub/5_virality.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Facebook virality of AlDub per month" %}
+
+Facebook virality is the combination of shares, comments, and likes in Facebook of the news mentioning them.
+
+While AlDub got the most number of news mentions on October, interestingly, they are most viral on November. Additionally, December is not yet done but it's on pace to be their most viral month.
+
+AlDub averages **16,362.24 in Facebook virality on November**, while averaging only 5,129.08 on October.
+
+To add more interesting information, their [most viral news is on July 17](http://www.gmanetwork.com/entertainment/gma/articles/2015-07-17/17726/Yaya-Dub-dinala-sa-social-media-ang-kilig-kay-Alden-Richards), a day after AlDub started. It got more than **86,000 Facebook shares, comments, and likes**. Another thing to note is that **5 out of their top ten most viral news are from November**.
+
+So even though their amount of news mentions slightly lessen after "Sa Tamang Panahon", AlDub's virality still has no sign of dying or even slowing down.
+
+### Checking the Magnitude
+
+To better understand the magnitude of AlDub's virality, let's briefly compare it to another popular topic: the 2016 Philippine election.
+
+{% assign image_url = "/img/aldub/7_politics2.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="election news vs aldub news" %}
+
+We discussed earlier that the most viral AlDub news is when they started. On the other hand, the most viral election news right now is when [Duterte announces that he is running for president](http://www.rappler.com/nation/politics/elections/2016/113603-rodrigo-duterte-brink-running-for-president). That news got more than **190,000 Facebook shares, comments, and likes**.
+
+While AlDub's most viral news is lower, it is still amazing that an entertainment news got that amount of Facebook virality.
+
+### Bonus
+
+To end this analysis, here is a bonus graph that we found interesting.
+
+If the election is based on Facebook virality, who's pair of president and vice president will win? Roxas-Robredo? Binay-Honasan?
+
+{% assign image_url = "/img/aldub/6_politics.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="aldub for president and vice president" %}
+
+Well, it's *Richards-Mendoza*.
+
+The graph is based on their respective Facebook virality for the month of November.
+
+---
+
+Analytics Driven Show Business Part 1
+
+*Data obtained from various news sources: GMA, ABS-CBN, Inquirer, Manila Bulletin, Pep, Philstar, and Rappler.*
+
+---
+
+[DataTeaser](http://www.datateaser.com/) is a software research and development company based in the Philippines. We specialized in natural language processing, machine learning, and data science.
+
+Established this year (2015), DataTeaser is a startup company that aims to be one of the pioneers of software research here in the Philippines. We have experience building summarization applications, automated classifiers, and different software that involve algorithms.
