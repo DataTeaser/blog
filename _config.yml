@@ -10,7 +10,7 @@ title: DataTeaser - Software Research and Development
 email: jolo@datateaser.com
 description: > # this means to ignore newlines until "baseurl:"
   DataTeaser is a software research and development company. We have a good understanding in machine learning, natural language processing, and data science.
-baseurl: "/e" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://www.datateaser.com/" # the base hostname & protocol for your site
 twitter_username: DataTeaser_
 github_username:  DataTeaser
