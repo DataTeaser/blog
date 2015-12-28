@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Philippine Typhoons in the News"
+date:   2015-12-28
+description:
+title_image:
+og_image:
+---
+\**For this article, the word **typhoon** will be used as a general term for storms that entered the Philippines.*
+
+---
+
+It is almost the end of the year. It looks like this is a good time to check back the typhoons that entered the Philippines this 2015. We have some memorable typhoons like **Lando** and **Nona**, but how about the others. This article will discuss about the typhoons that entered the Philippines and how it affected the news and Facebook.
+
+### Background
+
+For the past five years, the Philippines is averaging **19.2 typhoons per year**. The graph below shows the breakdown how much typhoon entered the Philippine Area of Responsibility since 2011.
+
+{% assign image_url = "/img/typhoon2015/1_yearly.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Typhoons in the Philippines since 2011" %}
+
+In 2015, there are only **15 typhoons** that entered the Philippines. As we can see above, this is the least number of typhoons the Philippines have since 2011.
+
+PAGASA normally provides the typhoons with Filipino names given alphabetically. With only 15 typhoons, we only reached letter O: Onyok.
+
+### 2015 Philippine Typhoons
+
+Here is the list of typhoons that entered the Philippines this year:
+
+- Amang
+- Betty
+- Chedeng
+- Dodong
+- Falcon
+- Egay
+- Goring
+- Hanna
+- Ineng
+- Jenny
+- Kabayan
+- Lando
+- Marilyn
+- Nona
+- Onyok
+
+Let's see how these typhoons are distributed per month:
+
+{% assign image_url = "/img/typhoon2015/2_monthly.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Typhoons in the Philippines per month" %}
+
+The first typhoon for 2015 is Amang. It entered the Philippines on January during the visit of Pope Francis. It then continues to have up to one single typhoon per month until July which is the start of the rainy season. During the rainy season, the Philippines have at least a single typhoon every month.
+
+### In the News and Facebook
+
+We now know the distribution of typhoons. Let's see how much news per month they generated.
+
+{% assign image_url = "/img/typhoon2015/4_monthly_news.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Number of typhoon news per month" %}
+
+In the graph above, we can see that October and December generated a lot of news compared to others. It is because Lando and Nona hit the Philippines in those months. It is also notable that July, which is the month that has the most typhoons, did not generated a lot of news compared to others. It is because even though Falcon, Egay and Goring entered the Philippine Area of Responsibility that month, only Egay directly hits the Philippines.
+
+{% assign image_url = "/img/typhoon2015/5_monthly_fb.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Typhoon virality per month" %}
+
+The graph above shows how viral in Facebook the month is.
+
+**Facebook virality** is the total number of shares, comments, and likes in Facebook of the news about typhoons. The graph also follows a same trend with the amount of news generated. Similarly, October and December are also the most viral months. Then those months without a typhoon obviously have not much news about it, and are also not viral.
