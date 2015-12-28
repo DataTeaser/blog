@@ -2,15 +2,15 @@
 layout: post
 title:  "Philippine Typhoons in the News"
 date:   2015-12-28
-description:
-title_image:
-og_image:
+description: It is almost the end of the year. It looks like this is a good time to check back the typhoons that entered the Philippines this 2015. We have some memorable typhoons like Lando and Nona, but how about the others. This article will discuss about the typhoons that entered the Philippines and how it affected the news and Facebook.
+title_image: /img/typhoon2015/hero-typhoon2.jpg
+og_image: /img/typhoon2015/og-typhoon2.jpg
 ---
 \**For this article, the word **typhoon** will be used as a general term for storms that entered the Philippines.*
 
 ---
 
-It is almost the end of the year. It looks like this is a good time to check back the typhoons that entered the Philippines this 2015. We have some memorable typhoons like **Lando** and **Nona**, but how about the others. This article will discuss about the typhoons that entered the Philippines and how it affected the news and Facebook.
+It is almost the end of the year. It looks like this is a good time to check back the typhoons that entered the Philippines this 2015. We have some memorable typhoons like *Lando* and *Nona*, but how about the others. This article will discuss about the typhoons that entered the Philippines and how it affected the news and Facebook.
 
 ### Background
 
@@ -21,7 +21,7 @@ For the past five years, the Philippines is averaging **19.2 typhoons per year**
 
 In 2015, there are only **15 typhoons** that entered the Philippines. As we can see above, this is the least number of typhoons the Philippines have since 2011.
 
-PAGASA normally provides the typhoons with Filipino names given alphabetically. With only 15 typhoons, we only reached letter O: Onyok.
+PAGASA normally provides the typhoons with Filipino names given alphabetically. With only 15 typhoons, we only reached letter O: *Onyok*.
 
 ### 2015 Philippine Typhoons
 
@@ -48,20 +48,54 @@ Let's see how these typhoons are distributed per month:
 {% assign image_url = "/img/typhoon2015/2_monthly.png" | prepend: site.baseurl %}
 {% include image.html url=image_url description="Typhoons in the Philippines per month" %}
 
-The first typhoon for 2015 is Amang. It entered the Philippines on January during the visit of Pope Francis. It then continues to have up to one single typhoon per month until July which is the start of the rainy season. During the rainy season, the Philippines have at least a single typhoon every month.
+The first typhoon for 2015 is *Amang*. It entered the Philippines on January during the visit of Pope Francis. It then continues to have up to **one typhoon per month until July** which is the start of the rainy season. During the rainy season, the Philippines have **at least a single typhoon every month**.
 
-### In the News and Facebook
+### News and Facebook
 
 We now know the distribution of typhoons. Let's see how much news per month they generated.
 
 {% assign image_url = "/img/typhoon2015/4_monthly_news.png" | prepend: site.baseurl %}
 {% include image.html url=image_url description="Number of typhoon news per month" %}
 
-In the graph above, we can see that October and December generated a lot of news compared to others. It is because Lando and Nona hit the Philippines in those months. It is also notable that July, which is the month that has the most typhoons, did not generated a lot of news compared to others. It is because even though Falcon, Egay and Goring entered the Philippine Area of Responsibility that month, only Egay directly hits the Philippines.
+In the graph above, we can see that October and December generated a lot of news compared to others. It is because *Lando* and *Nona*, the two most memorable typhoons this year *(see Memorable Typhoons below)*, hit the Philippines in those months.
+
+It is also notable that July, which is the month that has the most typhoons, did not generate a lot of news compared to others. It is because even though Falcon, Egay and Goring entered the Philippine Area of Responsibility that month, only *Egay* directly hits the Philippines.
 
 {% assign image_url = "/img/typhoon2015/5_monthly_fb.png" | prepend: site.baseurl %}
 {% include image.html url=image_url description="Typhoon virality per month" %}
 
 The graph above shows how viral in Facebook the month is.
 
-**Facebook virality** is the total number of shares, comments, and likes in Facebook of the news about typhoons. The graph also follows a same trend with the amount of news generated. Similarly, October and December are also the most viral months. Then those months without a typhoon obviously have not much news about it, and are also not viral.
+**Facebook virality** is the total number of shares, comments, and likes in Facebook of the news about typhoons. The graph also follows a same trend with the amount of news the typhoons generated. Similarly, October and December are also the most viral months. Then those months without a typhoon obviously have not much news about it, and are also not viral.
+
+### Memorable Typhoons
+
+We mentioned earlier that *Lando* and *Nona* are the two most memorable typhoons this year. The graph below shows one of the reason why.
+
+{% assign image_url = "/img/typhoon2015/6_typhoon_news.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Top 5 Philippine typhoon in terms of news" %}
+
+*Lando*, which hits the Philippines last October, actually generated almost 350 news. Next to it is *Nona* which just happened recently, with about 250 news. They are followed by *Ineng* but is far behind the number of news generated.
+
+Another graph that supports *Lando* and *Nona* as the most memorable typhoons this year, is their Facebook virality which is shown below.
+
+{% assign image_url = "/img/typhoon2015/7_typhoon_fb.png" | prepend: site.baseurl %}
+{% include image.html url=image_url description="Top 5 Philippine typhoon in terms of virality" %}
+
+As seen above, *Lando* and *Nona* still leads among the typhoons even in Facebook virality.
+
+Amazingly, *Chedeng* which is not in the top typhoons in terms of news generated, is not far behind the two in terms of virality.
+
+---
+
+Data gathered (Dec. 26, 2015) from various news sources: GMA News, Inquirer, Manila Bulletin, Philstar, and Rappler.
+
+Storm data obtained from Wikipedia: [2015 Pacific typhoon season](https://en.wikipedia.org/wiki/2015_Pacific_typhoon_season)
+
+Image grabbed from [MALACAÑANG PHOTO BUREAU](http://www.pcoo.gov.ph/photos-oct2015/photo01-101615.htm)
+
+---
+
+[DataTeaser](http://www.datateaser.com/) is a software research and development company based in the Philippines. We specialized in natural language processing, machine learning, and data science.
+
+Established this year (2015), DataTeaser is a startup company that aims to be one of the pioneers of software research here in the Philippines. We have experience building summarization applications, automated classifiers, and different software that involve algorithms.
