@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Philippine Typhoons in the News"
+title:  "2015 Philippine Typhoons"
 date:   2015-12-28
 description: It is almost the end of the year. It looks like this is a good time to check back the typhoons that entered the Philippines this 2015. We have some memorable typhoons like Lando and Nona, but how about the others. This article will discuss about the typhoons that entered the Philippines and how it affected the news and Facebook.
 title_image: /img/typhoon2015/hero-typhoon2.jpg
