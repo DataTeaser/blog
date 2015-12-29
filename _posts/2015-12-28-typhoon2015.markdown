@@ -19,7 +19,7 @@ For the past five years, the Philippines has been averaging **19.2 typhoons per 
 {% assign image_url = "/img/typhoon2015/1_yearly.png" | prepend: site.baseurl %}
 {% include image.html url=image_url description="Typhoons in the Philippines since 2011" %}
 
-In 2015, only **15 typhoons** that entered the Philippines. As we can see above, this is the least number of typhoons the Philippines had since 2011.
+In 2015, only **15 typhoons** entered the Philippines. As we can see above, this is the least number of typhoons the Philippines had since 2011.
 
 The Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) normally provides the typhoons with Filipino names given alphabetically. With only 15 typhoons, we only reached letter O: *Onyok*.
 
