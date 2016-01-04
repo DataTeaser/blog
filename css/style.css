@@ -5,8 +5,11 @@ article h3 {
 .blog-title {
     text-align: center;
     margin-top: 100px;
-    padding-top: 50px;
-    color: #0099ff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: #fff;
+    text-shadow: 1px 1px #0099ff;
+    background-color: #002354;
 }
 
 .main-content {
@@ -22,6 +25,29 @@ article h3 {
     color: #fff;
     text-shadow: 1px 1px #000;
     background-color: black;
+}
+
+.post-list {
+    border-top: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    background-color: black;
+}
+
+.post-list a {
+  color: #fff;
+  text-shadow: 1px 1px #000;
+}
+
+.post-list a:hover {
+  color: #ccc;
+}
+
+.post-list-description {
+  font-size: 16px;
 }
 
 .post-content {
